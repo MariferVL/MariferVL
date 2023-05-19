@@ -7,9 +7,9 @@
 # Hello, World! I'm **María-Fernanda Vilallobos**, but you can call me **Marifer** - **The** **Code** **Alchemist** 👩‍💻✨  
   <h3>Former Speech Pathologist turned Web Developer, on a mission to merge technology and empathy 🚀</h3>
   <p>
-    <a href="mailto:ma.fernanda.villalobos@gmail.com"><img src="https://github.com/MariferVL/MariferVL/assets/99364311/209c118d-adf1-4551-908d-4ae1aff3067c" alt="Email" width="30"></a>
-    <a href="https://www.linkedin.com/in/marifervl/"><img src="https://github.com/MariferVL/MariferVL/assets/99364311/20319392-b732-4297-937f-9647fb079e96" alt="LinkedIn" width="30"></a>
-    <a href="https://twitter.com/marifer_vl"><img src="https://github.com/MariferVL/MariferVL/assets/99364311/472205ec-9d09-4d32-9c8a-fefbe9ea1eba" alt="Twitter" width="30"></a>
+    <a href="mailto:ma.fernanda.villalobos@gmail.com"><img src="/Icons/emailTransp.png" alt="Email" width="30"></a>
+    <a href="https://www.linkedin.com/in/marifervl/"><img src="/Icons/linkedinTransp.png" alt="LinkedIn" width="30"></a>
+    <a href="https://twitter.com/marifer_vl"><img src="/Icons/twitterTransp.png" alt="Twitter" width="30"></a>
   </p>
 </div>
 
