@@ -4,7 +4,7 @@
 -->
  
 
-# 👋 Hello, World! I'm **María-Fernanda Vilallobos**, but you can call me **Marifer** - **The** **Code** **Alchemist** 👩‍💻✨  
+# Hello, World! I'm **María-Fernanda Vilallobos**, but you can call me **Marifer** - **The** **Code** **Alchemist** 👩‍💻✨  
   <h3>Former Speech Pathologist turned Web Developer, on a mission to merge technology and empathy 🚀</h3>
   <p>
     <a href="mailto:ma.fernanda.villalobos@gmail.com"><img src="https://github.com/MariferVL/MariferVL/assets/99364311/209c118d-adf1-4551-908d-4ae1aff3067c" alt="Email" width="30"></a>
