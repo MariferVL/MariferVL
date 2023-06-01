@@ -41,6 +41,9 @@
 - 🌐 [V Queen](https://github.com/MariferVL/VQueen): 
 
     "V Queen" is a web development project consisting of a client-side interface and a server-side API. Developed using Angular, TypeScript, Bootstrap, HTML, and CSS, it fulfills the requirements of our client, the vegan restaurant V Queen. With their 24/7 service, they need an efficient system to manage customer orders. 
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MariferVL&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br>
 
 ## 🌱 Currently Exploring
 
