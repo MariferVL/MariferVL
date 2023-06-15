@@ -57,8 +57,9 @@
 I'm always seeking new challenges and expanding my skills. Here are some areas I'm currently exploring:
 
 - 🚀 MongoDB
-- 🚀 React.js
 - 🚀 Docker
+- 🚀 React.js
+
 
 ## 🤝 Let's Connect!
 
