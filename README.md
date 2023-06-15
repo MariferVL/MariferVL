@@ -4,7 +4,8 @@
 -->
  
 
-# Hello, World! I'm **María-Fernanda Vilallobos**, but you can call me **Marifer** - **The** **Code** **Alchemist** 👩‍💻✨  
+# Hello, World! 
+## I'm **María-Fernanda Villalobos**, but you can call me **Marifer** - **The** **Code** **Alchemist** 👩‍💻✨  
   <h3>Former Speech Pathologist turned Web Developer, on a mission to merge technology and empathy 🚀</h3>
   <p>
     <a href="mailto:ma.fernanda.villalobos@gmail.com"><img src="/Icons/emailTransp.png" alt="Email" width="30"></a>
@@ -23,10 +24,9 @@
 
 ## 💻 Tech Toolbox
 
-- **Languages**: HTML, CSS, JavaScript, Java, Python, TypeScript
-- **Frameworks**: Node.js, Angular, Bootstrap, Django
-- **Database**: MySQL, NoSQL
-- **Version Control**: Git
+- **Client-Side**: HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap.
+- **Server-Side**: Python, Django, Node.js, Express.js, MySQL, Java, API Rest, AWS.
+- **Development**: Git, Github, Trello, Kanban, SCRUM.
 
 ## 🚀 Projects
 
@@ -56,9 +56,9 @@
 
 I'm always seeking new challenges and expanding my skills. Here are some areas I'm currently exploring:
 
-- 🚀 AWS
+- 🚀 MongoDB
 - 🚀 React.js
-- 🚀 Postgresql
+- 🚀 Docker
 
 ## 🤝 Let's Connect!
 
