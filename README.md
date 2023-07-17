@@ -5,7 +5,7 @@
  
 
 # Hello, World! 
-## I'm **María-Fernanda Villalobos**, but you can call me **Marifer** 👩‍💻✨  
+## I'm **María-Fernanda Villalobos** aka **Marifer** 👩‍💻✨  
   <h3>Former Speech Pathologist turned Web Developer, on a mission to merge technology and empathy 🚀</h3>
   <p>
     <a href="mailto:ma.fernanda.villalobos@gmail.com"><img src="/Icons/emailTransp.png" alt="Email" width="30"></a>
