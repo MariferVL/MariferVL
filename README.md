@@ -5,7 +5,7 @@
  
 
 # Hello, World! 
-## I'm **María-Fernanda Villalobos**, but you can call me **Marifer** - **The** **Code** **Alchemist** 👩‍💻✨  
+## I'm **María-Fernanda Villalobos**, but you can call me **Marifer** 👩‍💻✨  
   <h3>Former Speech Pathologist turned Web Developer, on a mission to merge technology and empathy 🚀</h3>
   <p>
     <a href="mailto:ma.fernanda.villalobos@gmail.com"><img src="/Icons/emailTransp.png" alt="Email" width="30"></a>
@@ -15,8 +15,6 @@
 </div>
 
 ## 🌟 About Me
-
-👩‍💻 As a former Speech Pathologist, I've always had a passion for helping others. But my journey led me to discover a new passion for web development, where I found the perfect blend of constant learning, problem-solving, and creativity.
 
 🌍 I believe that technology can make a positive impact on people's lives. That's why I'm committed to using my skills as a web developer to create websites and applications that empower and bring joy to others.
 
