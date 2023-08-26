@@ -11,7 +11,7 @@
     <a href="mailto:ma.fernanda.villalobos@gmail.com"><img src="/Icons/emailTransp.png" alt="Email" width="30"></a>
     <a href="https://www.linkedin.com/in/marifervl/"><img src="/Icons/linkedinTransp.png" alt="LinkedIn" width="30"></a>
     <a href="https://twitter.com/marifer_vl"><img src="/Icons/twitterTransp.png" alt="Twitter" width="30"></a>
-    <a href="https://marifer.web.app/"><img src="" alt="WebSite" width="30"></a>
+    <a href="https://marifer.web.app/"><img src="/Icons/webicon.png" alt="WebSite" width="30"></a>
 
   </p>
 </div>
