@@ -1,69 +1,111 @@
 <div align="center">
-<!-- 
-  <img src="https://github.com/MariferVL/MariferVL/assets/99364311/a5146221-e12b-479d-a16d-1928c861b6b2" alt="Marifer Profile Image" width="200" height="200">
--->
- 
-
-# Hello, World! 
-## I'm **María-Fernanda Villalobos** aka **Marifer** 👩‍💻✨  
-  <h3>Former Speech Pathologist turned Web Developer, on a mission to merge technology and empathy 🚀</h3>
+  
+  <h1>María-Fernanda Villalobos</h1>
+  
+  <h3>
+    Frontend Developer | #3 React.js Developer in Chile (GitHunter) | Accessibility & Inclusive Design
+  </h3>
+  
   <p>
-    <a href="mailto:ma.fernanda.villalobos@gmail.com"><img src="/Icons/emailTransp.png" alt="Email" width="30"></a>
-    <a href="https://www.linkedin.com/in/marifervl/"><img src="/Icons/linkedinTransp.png" alt="LinkedIn" width="30"></a>
-    <a href="https://twitter.com/marifer_vl"><img src="/Icons/twitterTransp.png" alt="Twitter" width="30"></a>
-    <a href="https://marifer.web.app/"><img src="/Icons/webicon.png" alt="WebSite" width="30"></a>
-
+    <a href="https://www.linkedin.com/in/marifervl/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://marifervl.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="mailto:marifervl.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
   </p>
+
 </div>
 
-## 🌟 About Me
+---
 
-🌍 I believe that technology can make a positive impact on people's lives. That's why I'm committed to using my skills as a web developer to create websites and applications that empower and bring joy to others.
+### 👩‍💻 About Me
 
-💡 Making a career change wasn't easy, but the challenges excite me. My background in speech pathology brings a unique perspective to my work, enabling me to design intuitive and user-friendly experiences.
+My journey started in health sciences, decoding human needs. Today, I decode the digital world, building technology that feels intuitive and human. This unique fusion of empathy and code led to my recognition as the #3 React Developer in Chile. My passion is crafting pixel-perfect, accessible (A11y) solutions that ensure the digital future we're coding today is open to everyone.
 
-## 💻 Tech Toolbox
+---
 
-- **Client-Side**: HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap.
-- **Server-Side**: Python, Django, Node.js, Express.js, MySQL, Java, API Rest, AWS.
-- **Development**: Git, Github, Trello, Kanban, SCRUM.
+### 🚀 Core Tech Stack
 
-## 🚀 Projects
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind,html,css,git" />
+  </a>
+</p>
 
-- 🌐 [Entiendeme](https://github.com/MariferVL/Entiendeme): 
+---
 
-    "Entiendeme" is a platform that unveils your Vedic astrological birth chart insights. Using DOM manipulation, JavaScript, and UX/UI principles, we generate personalized interpretations based on your Vedic birth details. Explore the alignment of planets and nakshatras to gain a deeper understanding of yourself in just a few clicks.
-    
-- 🌐 [Outsy](https://github.com/MariferVL/Outsy): 
+### 🏆 Featured Projects
 
-    "Outsy" is a social network app that reconnects people through social events. Create a profile, publish events, and find companions. With HTML, CSS, Bootstrap, Firebase and JS, it's user-friendly. Receive comments and reactions. Edit or delete events as needed. Join Outsy and rediscover social connections.
-    
-- 🌐 [V Queen](https://github.com/MariferVL/VQueen): 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">PyDay Chile Conference Website</h3>
+      <div align="center">
+        <a href="https://pyday.cl/" target="_blank">
+          <img width="400" src="https://github.com/user-attachments/assets/f491744d-c7e1-455a-a35b-c00fb5191231" alt="PyDay Chile Project Screenshot">
+        </a>
+        <p>
+          <a href="https://github.com/python-chile/pyday-2024" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://pyday.cl/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-4A90E2?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </p>
+        <p>Developed the first SPA for the Python Chile community under a tight deadline, navigating complex team dynamics and restrictive branding to deliver a high-quality, professional user experience.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Client Project: Valeria del Real</h3>
+      <div align="center">
+        <a href="https://valeriadelreal.web.app/" target="_blank">
+          <img width="400" src="https://github.com/user-attachments/assets/d3ace28f-6916-4182-93e9-ed8ece9130c5" alt="Valeria del Real Project Screenshot">
+        </a>
+        <p>
+          <a href="https://github.com/MariferVL/valeDelRealWebsite" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://valeriadelreal.web.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-4A90E2?style=for-the-badge&logo=firebase&logoColor=white">
+          </a>
+        </p>
+        <p>Led a non-technical client through her first digitalization process, managing the full project lifecycle and optimizing low-resolution assets to deliver a polished, high-performance website.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">Hites - Mobile E-commerce Challenge</h3>
+      <div align="center">
+        <a href="https://marifervl.github.io/Hites-Website/" target="_blank">
+          <img width="400" src="https://github.com/user-attachments/assets/ef083fad-5e42-459a-b45a-b10000fe17a1" alt="Hites Challenge Project Screenshot">
+        </a>
+        <p>
+          <a href="https://github.com/MariferVL/Hites-Website" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://marifervl.github.io/Hites-Website/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-4A90E2?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+        <p>Replicated a desktop product page into a fully responsive, mobile-first version in a 24-hour technical challenge, a resourceful solution that positioned me as a top-two finalist for the role.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-    "V Queen" is a web development project consisting of a client-side interface and a server-side API. Developed using Angular, TypeScript, Bootstrap, HTML, and CSS, it fulfills the requirements of our client, the vegan restaurant V Queen. With their 24/7 service, they need an efficient system to manage customer orders. 
-<br>
+---
 
+### 📊 GitHub Activity & Achievements
 
-<br>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MariferVL&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" align="center" /></div>
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MariferVL&theme=dracula" alt="Marifer's Streak Stats">
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=MariferVL&theme=onedark" alt="Marifer's GitHub Trophies">
+</p>
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MariferVL&theme=onedark" align="center" /></div>
-<br>
-
-
-## 🌱 Currently Exploring
-
-I'm always seeking new challenges and expanding my skills. Here are some areas I'm currently exploring:
-
-- 🚀 MongoDB
-- 🚀 Docker
-- 🚀 React.js
-
-
-## 🤝 Let's Connect!
-
-I'm excited to connect with fellow developers, industry professionals, and potential collaborators. Feel free to reach out via email or connect with me on LinkedIn or Twitter.
-
-✨ Together, let's create remarkable experiences that bridge the gap between technology and humanity! ✨
-
+---
